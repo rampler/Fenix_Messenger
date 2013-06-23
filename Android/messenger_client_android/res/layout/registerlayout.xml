@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent" android:background="#222222">
+
+    <ImageView android:layout_width="102dp" android:layout_height="101dp" android:id="@+id/imageView"
+               android:src="@drawable/logo" android:layout_centerHorizontal="true" android:layout_alignParentTop="true"
+               android:layout_marginTop="20dp"/>
+    <ImageView android:layout_width="270dp" android:layout_height="wrap_content" android:id="@+id/imageView1"
+               android:src="@drawable/banner" android:layout_centerHorizontal="true"
+               android:layout_alignParentTop="true" android:layout_marginTop="120dp"/>
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Login:"
+              android:id="@+id/textView" android:textSize="20dp"
+              android:layout_alignParentTop="true"
+              android:layout_marginTop="210dp" android:layout_marginLeft="20dp"/>
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Pass:"
+              android:id="@+id/textView1" android:textSize="20dp"
+              android:layout_alignParentTop="true"
+              android:layout_marginTop="260dp" android:layout_marginLeft="20dp"/>
+    <EditText android:layout_width="220dp" android:layout_height="wrap_content" android:id="@+id/reglogin"
+              android:password="false" android:layout_alignParentTop="true"
+              android:layout_marginTop="200dp" android:layout_marginLeft="82dp"/>
+    <EditText android:layout_width="220dp" android:layout_height="wrap_content" android:id="@+id/regpass"
+              android:layout_alignParentTop="true"
+              android:layout_marginTop="250dp" android:layout_marginLeft="82dp" android:password="true"/>
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+              android:text="© Copyrights by Mateusz Kotlarz - 2013" android:id="@+id/textView2"
+              android:textColor="#444444"
+              android:gravity="center"
+              android:layout_alignParentLeft="true" android:layout_alignParentBottom="true"
+              android:layout_alignParentRight="true"/>
+    <EditText android:layout_width="220dp" android:layout_height="wrap_content" android:id="@+id/regpasscon"
+              android:layout_alignParentLeft="true" android:layout_marginLeft="82dp"
+              android:layout_alignParentTop="true" android:layout_marginTop="300dp" android:password="true"/>
+    <EditText android:layout_width="220dp" android:layout_height="wrap_content" android:id="@+id/regname"
+              android:layout_alignParentTop="true"
+              android:layout_marginTop="350dp" android:layout_marginLeft="82dp"/>
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Pass:"
+              android:id="@+id/textView3" android:textSize="20dp"
+              android:layout_alignParentLeft="true" android:layout_marginLeft="20dp"
+              android:layout_alignParentTop="true" android:layout_marginTop="310dp"/>
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="again"
+            android:id="@+id/textView4" android:layout_alignParentLeft="true" android:layout_marginLeft="30dp"
+            android:layout_alignParentTop="true" android:layout_marginTop="330dp" android:textSize="12dp"/>
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Name:"
+              android:id="@+id/textView5" android:textSize="20dp"
+              android:layout_alignParentLeft="true" android:layout_marginLeft="20dp"
+              android:layout_alignParentTop="true" android:layout_marginTop="360dp"/>
+    <Button
+            android:layout_width="180dp"
+            android:layout_height="wrap_content"
+            android:text="Register"
+            android:id="@+id/regregister" android:layout_alignParentLeft="false"
+            android:layout_alignParentTop="true" android:layout_marginTop="410dp"
+            android:layout_centerHorizontal="true"/>
+    <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Back"
+            android:id="@+id/regback" android:layout_alignParentLeft="true" android:layout_marginLeft="253dp"
+            android:layout_alignParentTop="true" android:layout_marginTop="410dp"/>
+</RelativeLayout>
