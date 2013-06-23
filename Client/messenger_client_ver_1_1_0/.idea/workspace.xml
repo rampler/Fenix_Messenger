@@ -1,0 +1,926 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b3262bf5-fe47-4b2a-8958-5947f40bb84f" name="Default" comment="" />
+    <ignored path="message_client.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/program.java" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1358453755847" ignored="false" />
+    <file path="/DB.java" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1362336883385" ignored="false" />
+    <file path="/Contact.java" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1358885474092" ignored="false" />
+    <file path="/ContactDB.java" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1361828365389" ignored="false" />
+    <file path="/UserNotFoundException.java" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1358507387119" ignored="false" />
+    <file path="/ContactBrowser.java" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1361833234506" ignored="false" />
+    <file path="/ArchiveMessage.java" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1358509093584" ignored="false" />
+    <file path="/MainForm.java" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1358927976434" ignored="false" />
+    <file path="/fragment.java" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1358884717492" ignored="false" />
+    <file path="/IncomingMessagesThread.java" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1358885551541" ignored="false" />
+    <file path="$PROJECT_DIR$/../AndroidTest/src/okno1.form" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1358886333005" ignored="false" />
+    <file path="$PROJECT_DIR$/../AndroidTest/src/okno1.java" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1358886347069" ignored="false" />
+    <file path="$PROJECT_DIR$/../AndroidTest/.idea/compiler.xml" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1358886342463" ignored="false" />
+    <file path="$PROJECT_DIR$/../AndroidTest/.idea/misc.xml" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1358886342463" ignored="false" />
+    <file path="$PROJECT_DIR$/../AndroidTest/.idea/uiDesigner.xml" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1358886342463" ignored="false" />
+    <file path="$PROJECT_DIR$/../AndroidTest/.idea/workspace.xml" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1358890539986" ignored="false" />
+    <file path="$PROJECT_DIR$/../FastChanging/src/com/rampler/FastChanging/FastChanging.java" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1361622487778" ignored="false" />
+    <file path="/FastChanging.java" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1361622470194" ignored="false" />
+    <file path="$PROJECT_DIR$/../FastChanging/res/layout/main.xml" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1361622268623" ignored="false" />
+    <file path="$PROJECT_DIR$/../FastChanging/AndroidManifest.xml" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1361621652988" ignored="false" />
+    <file path="/AndroidManifest.xml" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1361621652988" ignored="false" />
+    <file path="$PROJECT_DIR$/../FastChanging/gen/com/rampler/FastChanging/BuildConfig.java" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1361621655467" ignored="false" />
+    <file path="$PROJECT_DIR$/../FastChanging/gen/com/rampler/FastChanging/Manifest.java" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1361621655467" ignored="false" />
+    <file path="$PROJECT_DIR$/../FastChanging/gen/com/rampler/FastChanging/R.java" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1361621655467" ignored="false" />
+    <file path="$PROJECT_DIR$/../messenger_client_android/src/com/rampler/messenger_client_android/Commands.java" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1361728767654" ignored="false" />
+    <file path="/Commands.java" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1361728755542" ignored="false" />
+    <file path="$PROJECT_DIR$/../messenger_client_android/src/com/rampler/messenger_client_android/cryptography/Cryptographer.java" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1361728714861" ignored="false" />
+    <file path="$PROJECT_DIR$/../messenger_client_android/src/com/rampler/messenger_client_android/cryptography/Algorythm.java" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1361728714547" ignored="false" />
+    <file path="$PROJECT_DIR$/../messenger_client_android/src/com/rampler/messenger_client_android/cryptography/moveSigns.java" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1361728740294" ignored="false" />
+    <file path="$PROJECT_DIR$/../messenger_client_android/src/com/rampler/messenger_client_android/dictionary/ConnectionCommands.java" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1362427835923" ignored="false" />
+    <file path="/ConnectionCommands.java" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1362427835499" ignored="false" />
+    <file path="$PROJECT_DIR$/../messenger_client_android/src/com/rampler/messenger_client_android/Fenix.java" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1362427862773" ignored="false" />
+    <file path="$PROJECT_DIR$/../messenger_client_android/src/com/rampler/messenger_client_android/dictionaries/ArchiveMessage.java" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1361828241645" ignored="false" />
+    <file path="$PROJECT_DIR$/../messenger_client_android/src/com/rampler/messenger_client_android/dictionaries/Contact.java" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1361828241078" ignored="false" />
+    <file path="$PROJECT_DIR$/../messenger_client_android/src/com/rampler/messenger_client_android/dictionaries/ContactDB.java" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1361828241645" ignored="false" />
+    <file path="$PROJECT_DIR$/../messenger_client_android/src/com/rampler/messenger_client_android/dictionaries/ContactBrowser.java" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1361828241234" ignored="false" />
+    <file path="$PROJECT_DIR$/../messenger_client_android/src/com/rampler/messenger_client_android/contacts/ArchiveMessage.java" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1361828257338" ignored="false" />
+    <file path="$PROJECT_DIR$/../messenger_client_android/src/com/rampler/messenger_client_android/contacts/Contact.java" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1361828257338" ignored="false" />
+    <file path="$PROJECT_DIR$/../messenger_client_android/src/com/rampler/messenger_client_android/contacts/ContactDB.java" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1361828368123" ignored="false" />
+    <file path="$PROJECT_DIR$/../messenger_client_android/src/com/rampler/messenger_client_android/contacts/ContactBrowser.java" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1361833234980" ignored="false" />
+    <file path="/Fenix.java" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1362427853233" ignored="false" />
+    <file path="/Dummy.txt" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1361832365108" ignored="false" />
+    <file path="$PROJECT_DIR$/../messenger_client_android/res/layout/row.xml" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1361883292041" ignored="false" />
+    <file path="$PROJECT_DIR$/../messenger_client_android/res/layout/userlistlayout.xml" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1361834475098" ignored="false" />
+    <file path="/userlistlayout.xml" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1361834412495" ignored="false" />
+    <file path="/row.xml" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1361883292041" ignored="false" />
+    <file path="$PROJECT_DIR$/../fenix_messenger/src/base/FileBase.java" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1362337493758" ignored="false" />
+    <file path="/FileBase.java" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1362337493758" ignored="false" />
+    <file path="$PROJECT_DIR$/../fenix_messenger/src/base/DB.java" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1362336889446" ignored="false" />
+    <file path="$PROJECT_DIR$/../fenix_messenger/src/program/Server.java" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1362337315034" ignored="false" />
+    <file path="/Server.java" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1362337314098" ignored="false" />
+    <file path="$PROJECT_DIR$/../fenix_messenger/src/threads/ClientServiceThread.java" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1362337521204" ignored="false" />
+    <file path="/ClientServiceThread.java" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1362337506181" ignored="false" />
+    <file path="$PROJECT_DIR$/../messenger_client_android/res/layout/serverlayout.xml" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1362338830726" ignored="false" />
+    <file path="$PROJECT_DIR$/../messenger_client_android/src/com/rampler/messenger_client_android/threads/IncomingMessageThread.java" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1362426226350" ignored="false" />
+    <file path="/IncomingMessageThread.java" changelist="b3262bf5-fe47-4b2a-8958-5947f40bb84f" time="1362425686593" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="Commander">
+    <leftPanel />
+    <rightPanel />
+    <splitter proportion="0.5" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DatabaseView">
+    <flatten value="false" />
+    <groupTables value="false" />
+    <sortChildren value="false" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="message_client" />
+    <favorites_list name="messenger_client_ver_1_1_0" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="MainForm.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/gui/MainForm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="63" column="90" selection-start="1936" selection-end="1936" vertical-scroll-proportion="0.7431694">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Contact.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dictionaries/Contact.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="55" selection-start="701" selection-end="701" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AddWindow.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gui/AddWindow.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="57" column="67" selection-start="1720" selection-end="1720" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IncomingMessagesThread.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/threads/IncomingMessagesThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="109" column="69" selection-start="3909" selection-end="3909" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="expandStates">
+      <map>
+        <entry key="message_client" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/User.java" />
+        <option value="$PROJECT_DIR$/src/DB.java" />
+        <option value="$PROJECT_DIR$/src/Contact.java" />
+        <option value="$PROJECT_DIR$/src/ContactDB.java" />
+        <option value="$PROJECT_DIR$/src/dictionaries/ArchiveMessage.java" />
+        <option value="$PROJECT_DIR$/src/program.java" />
+        <option value="$PROJECT_DIR$/src/MainForm.form" />
+        <option value="$PROJECT_DIR$/src/MainForm.java" />
+        <option value="$PROJECT_DIR$/src/exceptions/UserNotFoundException.java" />
+        <option value="$PROJECT_DIR$/src/gui/ConversationWindow.java" />
+        <option value="$PROJECT_DIR$/src/gui/AddWindow.java" />
+        <option value="$PROJECT_DIR$/src/dictionaries/ContactDB.java" />
+        <option value="$PROJECT_DIR$/src/dictionaries/ContactBrowser.java" />
+        <option value="$PROJECT_DIR$/src/dictionaries/Contact.java" />
+        <option value="$PROJECT_DIR$/src/threads/IncomingMessagesThread.java" />
+        <option value="$PROJECT_DIR$/src/gui/MainForm.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="messenger_client_ver_1_1_0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="messenger_client_ver_1_1_0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="messenger_client_ver_1_1_0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="messenger_client_ver_1_1_0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="messenger_client_ver_1_1_0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="threads" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="messenger_client_ver_1_1_0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="messenger_client_ver_1_1_0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="messenger_client_ver_1_1_0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="messenger_client_ver_1_1_0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exceptions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="messenger_client_ver_1_1_0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="messenger_client_ver_1_1_0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dictionaries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="messenger_client_ver_1_1_0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="messenger_client_ver_1_1_0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cryptography" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="dynamic.classpath" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.MainForm">
+    <configuration default="false" name="program" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="program" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="message_client" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="MainForm" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="gui.MainForm" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="messenger_client_ver_1_1_0" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.program" />
+      <item index="1" class="java.lang.String" itemvalue="Application.MainForm" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Application.MainForm" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MainForm" />
+        <item index="2" class="java.lang.String" itemvalue="Application.program" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3262bf5-fe47-4b2a-8958-5947f40bb84f" name="Default" comment="" />
+      <created>1358452950298</created>
+      <updated>1358452950298</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.81335616" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16515152" sideWeight="0.81335616" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.81335616" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18030304" sideWeight="0.15068494" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.81335616" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.81399316" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18600683" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17727272" sideWeight="0.81335616" order="2" side_tool="false" content_ui="tabs" x="564" y="126" width="238" height="475" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/dictionaries/Contact.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="64" selection-start="874" selection-end="874" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exceptions/UserNotFoundException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="63" selection-start="243" selection-end="243" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_07/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1621" column="0" selection-start="68317" selection-end="68317" vertical-scroll-proportion="0.33184856" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exceptions/UserNotFoundException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="13" selection-start="34" selection-end="34" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dictionaries/ContactDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="4" selection-start="1052" selection-end="1052" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dictionaries/ArchiveMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="41" selection-start="539" selection-end="539" vertical-scroll-proportion="0.7429907">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cryptography/moveSigns.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="13" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cryptography/Cryptographer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="13" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cryptography/Algorythm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="10" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gui/ConversationWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="218" selection-start="1274" selection-end="1342" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1094#1126#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="" y="">javax.jws</node>
+            <node x="" y="">java.net</node>
+            <node x="" y="">oracle.jrockit</node>
+            <node x="" y="">sun.audio</node>
+            <node x="" y="">org.ietf</node>
+            <node x="" y="">netscape.javascript</node>
+            <node x="" y="">exceptions.UserNotFoundException</node>
+            <node x="" y="">javax.jnlp</node>
+            <node x="" y="">dictionaries.ArchiveMessage</node>
+            <node x="" y="">javafx.util</node>
+            <node x="" y="">org.xml</node>
+            <node x="" y="">javafx.event</node>
+            <node x="" y="">javax.lang</node>
+            <node x="" y="">sun.tracing</node>
+            <node x="" y="">javax.sound</node>
+            <node x="" y="">javafx.embed</node>
+            <node x="" y="">sun.corba</node>
+            <node x="" y="">javax.crypto</node>
+            <node x="" y="">gui.AddWindow</node>
+            <node x="" y="">classes.com</node>
+            <node x="" y="">java.beans</node>
+            <node x="" y="">java.sql</node>
+            <node x="" y="">javax.smartcardio</node>
+            <node x="" y="">org.gjt</node>
+            <node x="" y="">threads.IncomingMessagesThread</node>
+            <node x="" y="">javax.annotation</node>
+            <node x="" y="">gui.MainForm</node>
+            <node x="" y="">sun.launcher</node>
+            <node x="" y="">sun.invoke</node>
+            <node x="" y="">javax.imageio</node>
+            <node x="" y="">net.miginfocom</node>
+            <node x="" y="">javafx.scene</node>
+            <node x="" y="">sun.applet</node>
+            <node x="" y="">sun.dc</node>
+            <node x="" y="">java.math</node>
+            <node x="" y="">sun.nio</node>
+            <node x="" y="">java.applet</node>
+            <node x="" y="">dictionaries.Contact</node>
+            <node x="" y="">sun.misc</node>
+            <node x="" y="">cryptography.Algorythm</node>
+            <node x="" y="">com.mysql</node>
+            <node x="" y="">javafx.fxml</node>
+            <node x="" y="">java.awt</node>
+            <node x="" y="">javafx.geometry</node>
+            <node x="" y="">javafx.animation</node>
+            <node x="" y="">sun.text</node>
+            <node x="" y="">javafx.beans</node>
+            <node x="" y="">sun.reflect</node>
+            <node x="" y="">javax.net</node>
+            <node x="" y="">META-INF.services</node>
+            <node x="" y="">java.rmi</node>
+            <node x="" y="">com.jgoodies</node>
+            <node x="" y="">javax.accessibility</node>
+            <node x="" y="">sun.font</node>
+            <node x="" y="">sun.plugin2</node>
+            <node x="" y="">javax.print</node>
+            <node x="" y="">sun.print</node>
+            <node x="" y="">sun.plugin</node>
+            <node x="" y="">javax.management</node>
+            <node x="" y="">sun.swing</node>
+            <node x="" y="">cryptography.Cryptographer</node>
+            <node x="" y="">sunw.io</node>
+            <node x="" y="">javax.swing</node>
+            <node x="" y="">java.io</node>
+            <node x="" y="">dictionaries.ContactDB</node>
+            <node x="" y="">java.lang</node>
+            <node x="" y="">javax.naming</node>
+            <node x="" y="">javafx.application</node>
+            <node x="" y="">com.oracle</node>
+            <node x="" y="">dictionaries.ContactBrowser</node>
+            <node x="" y="">javafx.collections</node>
+            <node x="" y="">sun.jdbc</node>
+            <node x="" y="">sun.awt</node>
+            <node x="" y="">javafx.concurrent</node>
+            <node x="" y="">sun.management</node>
+            <node x="" y="">sun.usagetracker</node>
+            <node x="" y="">org.omg</node>
+            <node x="" y="">sun.util</node>
+            <node x="" y="">java.util</node>
+            <node x="" y="">sun.net</node>
+            <node x="" y="">sun.java2d</node>
+            <node x="" y="">javax.script</node>
+            <node x="" y="">org.w3c</node>
+            <node x="" y="">sun.instrument</node>
+            <node x="" y="">sun.security</node>
+            <node x="" y="">sun.io</node>
+            <node x="" y="">javax.activity</node>
+            <node x="" y="">org.jcp</node>
+            <node x="" y="">sunw.util</node>
+            <node x="" y="">cryptography.moveSigns</node>
+            <node x="" y="">gui.ConversationWindow</node>
+            <node x="" y="">javafx.stage</node>
+            <node x="" y="">sun.beans</node>
+            <node x="" y="">netscape.security</node>
+            <node x="" y="">javax.tools</node>
+            <node x="" y="">sun.tools</node>
+            <node x="" y="">java.nio</node>
+            <node x="" y="">java.text</node>
+            <node x="" y="">sun.org</node>
+            <node x="" y="">javax.xml</node>
+            <node x="" y="">com.sun</node>
+            <node x="" y="">java.security</node>
+            <node x="" y="">javax.activation</node>
+            <node x="" y="">javax.sql</node>
+            <node x="" y="">javax.security</node>
+            <node x="" y="">javax.transaction</node>
+            <node x="" y="">javax.rmi</node>
+            <node x="" y="">sun.rmi</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="1837.0" y="213.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gui/AddWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="67" selection-start="1720" selection-end="1720" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dictionaries/Contact.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="55" selection-start="701" selection-end="701" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dictionaries/ContactBrowser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="5" selection-start="1069" selection-end="1069" vertical-scroll-proportion="0.6672598">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/threads/IncomingMessagesThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="109" column="69" selection-start="3909" selection-end="3909" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gui/MainForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="90" selection-start="1936" selection-end="1936" vertical-scroll-proportion="0.7431694">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>message_client</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
