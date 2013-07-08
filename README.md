@@ -8,3 +8,4 @@ I just wanna learn some of Android SDK and I used old project of Messenger.
 TODO:
   - Threads
   - more useful :D
+  - fix bugs in desktop client
